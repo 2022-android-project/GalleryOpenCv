@@ -1,0 +1,1 @@
+C:\Users\ASUS\GalleryOpencv\sdk\libcxx_helper\CMakeLists.txt
